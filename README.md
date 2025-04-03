@@ -51,4 +51,4 @@ University of São Paulo, Brazil (2013 – 2018)
 - I love to buy ans sell used stuff, specially music instruments, car parts and gaming and simracing equipment. I have an ebay shop and eventually it was a registered business that sold 50.000 euros in one year
 - I play electric guitar in a Rock Band
 - I play Assetto Corsa with my simracing rig, mostly drift
-- I own a BMW e46 which is equiped with a autoblock diff and small tunning. Everything I do myseld, part installation and programming of the ECUs. I use to go to the track 2 or 3 times a year
+- I own a BMW e46 which is equiped with a autoblock diff and small tunning. Everything I do myself, installation of parts and programming of the ECUs. I use to go to the track 2 or 3 times a year
