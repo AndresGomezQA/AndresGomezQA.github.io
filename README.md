@@ -25,7 +25,7 @@ October 2021 – August 2022
 - Developed automated test scripts in Python for data analysis and test validation.
 - Configured automated test environments using CANoe for sensor validation.
 - Utilized CAPL scripting and UDP protocols for data exchange in test automation.
-- 
+  
 ## Software Tester – umlaut GmbH, Böblingen (Germany)
 August 2018 – February 2021
 - Performed manual and automated testing of infotainment systems for Mercedes-Benz vehicles.
