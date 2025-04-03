@@ -11,8 +11,9 @@ Experienced Software Tester transitioning from automotive to web, app, and API t
 - API Testing: Postman, REST API (learning)
 - CI/CD & DevOps: Git, Jenkins (basic)
 - Other Tools: MATLAB, LabVIEW, CANoe, vTestStudio
+  
 
-# Work History
+# WORK EXPERIENCE
 ## QA Tester – AMK Automotive GmbH & Co. KG, Aichwald (Germany)
 September 2022 – Present
 - Automated and manual testing of embedded software for vehicle ECUs.
