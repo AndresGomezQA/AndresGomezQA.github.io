@@ -1,5 +1,6 @@
-# QA Teste / Software Tester for hire
-Senior SDET | Automator of all of the things!
+# QA Tester / Software Tester for hire
+6 years testing cars, wish to test other things also
+
 # About
 Experienced Software Tester transitioning from automotive to web, app, and API testing. Skilled in automated testing, defect tracking, and scripting, with a strong background in test automation. Currently enhancing expertise in Selenium, Python and web testing frameworks, with plans to expand into JavaScript and Playwright. Adaptable, analytical, and experienced in high-pressure environments with demanding clients.
 
